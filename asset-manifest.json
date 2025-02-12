@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/miayampakmin/static/css/main.b46d6607.css",
+    "main.js": "/miayampakmin/static/js/main.b5479cc5.js",
+    "static/js/453.c5eaf93b.chunk.js": "/miayampakmin/static/js/453.c5eaf93b.chunk.js",
+    "static/media/bglgi.png": "/miayampakmin/static/media/bglgi.a523af8d7015587749d0.png",
+    "static/media/About 1.png": "/miayampakmin/static/media/About 1.1916d29aec52a172b02c.png",
+    "static/media/profilemie.png": "/miayampakmin/static/media/profilemie.1f01c851705029744fb9.png",
+    "static/media/mieAyamImage.png": "/miayampakmin/static/media/mieAyamImage.0ed3ecfdb63a405a4137.png",
+    "static/media/minumanImage.png": "/miayampakmin/static/media/minumanImage.50cfe426b0d730d0bb84.png",
+    "static/media/Logoftr.png": "/miayampakmin/static/media/Logoftr.93d50422846eb74ae55a.png",
+    "static/media/logofull.png": "/miayampakmin/static/media/logofull.e283856f4d886c1de4ea.png",
+    "static/media/makananmati.png": "/miayampakmin/static/media/makananmati.84a6f74e5cc1e08de1fc.png",
+    "static/media/minumanmati.png": "/miayampakmin/static/media/minumanmati.6bf4434850d023ee7004.png",
+    "index.html": "/miayampakmin/index.html",
+    "main.b46d6607.css.map": "/miayampakmin/static/css/main.b46d6607.css.map",
+    "main.b5479cc5.js.map": "/miayampakmin/static/js/main.b5479cc5.js.map",
+    "453.c5eaf93b.chunk.js.map": "/miayampakmin/static/js/453.c5eaf93b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b46d6607.css",
+    "static/js/main.b5479cc5.js"
+  ]
+}
